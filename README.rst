@@ -28,7 +28,7 @@ Usage
 
 You will find the following new items::
 
-    Add Collection / Edit Article
+    Add Collection / Edit Collection
     Remove Collection
 
 Add Collection - Allows to add a collection of rich pages to the current page.
